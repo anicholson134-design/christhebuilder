@@ -7,8 +7,8 @@ Open `index.html` in a browser, or serve the folder with any static server (`pyt
 ## Content and photos
 
 - Copy, awards, contact details and the three customer comments come from christhebuilder.com, mostly in Chris's own words.
-- All job photos come from christhebuilder.com. His site only hosts small (about 320px) versions, so they were upscaled and lightly sharpened; ask Chris for originals before going live.
-- Before and after pairs are his own: garage conversion in Winstanley, resin driveway in Tyldesley, and the two-rooms-into-one bathroom.
+- The other job photos come from christhebuilder.com. His site only hosts small (about 320px) versions, so they were upscaled and lightly sharpened; ask Chris for originals before going live.
+- The four before and after pairs (rear extension, garage into living room, re-roof, terraced house facelift) are Chris's own photos, supplied by Alec from his Facebook. The same after shots are used on the Extensions, Garage Conversions and Roofing service cards.
 - `about-1.jpg` is the public profile photo from his Facebook page. Facebook posts, photos and reviews need a login, so nothing else was taken from Facebook.
 - Hero video is free Mixkit stock bricklaying footage (same clips as the Stringfellow demo), not Chris's own.
 
